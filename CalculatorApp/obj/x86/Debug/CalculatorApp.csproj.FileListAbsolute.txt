@@ -1,0 +1,13 @@
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.CalculatorHome.resources
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+C:\Users\Student\411-lab3\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+C:\Users\user\Documents\Lab 411\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+C:\Users\user\Documents\Lab 411\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
+C:\Users\Awesamist\Downloads\Compressed\CalculatorApp\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.exe
+C:\Users\Awesamist\Downloads\Compressed\CalculatorApp\CalculatorApp\CalculatorApp\obj\x86\Debug\CalculatorApp.pdb
